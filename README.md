@@ -1,3 +1,5 @@
 #hello world
+
 my first repository on GitHub 
-I love pizza amd music
+
+I love :pizza and :music
